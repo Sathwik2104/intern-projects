@@ -95,8 +95,3 @@ if __name__ == "__main__":
             quiz.add_questions(questions)
             print("1.play quiz \n2.Edit questions\n3.edit options \n4.Add question \n5.exit")
             choice = int(input())
-
-
-
-    
-                
