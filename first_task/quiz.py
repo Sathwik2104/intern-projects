@@ -66,12 +66,12 @@ class Quiz:
 
 if __name__ == "__main__":
     questions = [
-    [1,'who is the marval god','iron man','logan','Deadpool','Me',4],
-    [2,'who is the marval god','iron man','logan','Deadpool','Me',4],
-    [3,'who is the marval god','iron man','logan','Deadpool','Me',4],
-    [4,'who is the marval god','iron man','logan','Deadpool','Me',4],
-    [5,'who is the marval god','iron man','logan','Deadpool','Me',4],
-    [6,'who is the marval god','iron man','logan','Deadpool','Me',4]
+    [1,'How many wonders in the world','2','5','7','3',3],
+    [2,'How many avengers are there in the movie avengers','6','3','5','4',1],
+    [3,'Capital of Telanagna','Mumbai','Bangalore','Chennai','Hyderabad',4],
+    [4,'Hyderabad is famous for ','Biryani','Lassi','Laddu','Cakes',1],
+    [5,'who is the marvel jesus','iron man','Deadpool','Captain America','Wolverine',2],
+    [6,'who is literally me hero','Leonardo Decaprio','Ryan Reynolds','Ryan Gosling','Andrew Garfield',3]
     ]
     quiz = Quiz()
     print('Enter the choice:')
